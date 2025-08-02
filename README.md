@@ -1,5 +1,3 @@
-Great! A good `README.md` helps others (and your future self) understand and use your project effectively. Here's a solid structure you can follow for your facial image denoising project using UNET, Autoencoder, and UNET++:
-
 ---
 
 ## 📌 Project Title
